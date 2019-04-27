@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/orga6620_tp1.dir/src/ant_engine.c.o CMakeFiles/orga6620_tp1.dir/src/artist_ant.c.o  -o orga6620_tp1 
