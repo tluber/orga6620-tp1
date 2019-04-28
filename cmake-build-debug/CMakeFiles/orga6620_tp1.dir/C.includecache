@@ -6,8 +6,6 @@
 
 #IncludeRegexTransform: 
 
-/home/luber/Documents/orga6620-tp1/includes/ant_constants.h
-
 /home/luber/Documents/orga6620-tp1/includes/ant_engine.h
 stdio.h
 -
@@ -15,12 +13,6 @@ unistd.h
 -
 stdint-gcc.h
 -
-
-/home/luber/Documents/orga6620-tp1/includes/artist_ant.h
-unistd.h
--
-ant_constants.h
-/home/luber/Documents/orga6620-tp1/includes/ant_constants.h
 
 /home/luber/Documents/orga6620-tp1/src/ant_engine.c
 ../includes/ant_engine.h
@@ -33,24 +25,6 @@ stdio.h
 -
 stdint-gcc.h
 -
-
-/home/luber/Documents/orga6620-tp1/src/artist_ant.c
-stdio.h
--
-getopt.h
--
-stdio.h
--
 string.h
 -
-stdlib.h
--
-assert.h
--
-stdint-gcc.h
--
-../includes/ant_engine.h
-/home/luber/Documents/orga6620-tp1/includes/ant_engine.h
-../includes/artist_ant.h
-/home/luber/Documents/orga6620-tp1/includes/artist_ant.h
 
