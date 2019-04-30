@@ -6,6 +6,8 @@
 
 #IncludeRegexTransform: 
 
+/home/luber/Documents/orga6620-tp1/includes/ant_constants.h
+
 /home/luber/Documents/orga6620-tp1/includes/ant_engine.h
 stdio.h
 -
@@ -17,6 +19,8 @@ stdint-gcc.h
 /home/luber/Documents/orga6620-tp1/src/ant_engine.c
 ../includes/ant_engine.h
 /home/luber/Documents/orga6620-tp1/includes/ant_engine.h
+../includes/ant_constants.h
+/home/luber/Documents/orga6620-tp1/includes/ant_constants.h
 unistd.h
 -
 stdlib.h
